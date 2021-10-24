@@ -2,8 +2,8 @@
 
 <div align="center"> <!-- Stats -->
   <a href="https://github.com/matheuszem">
-  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=matheuszem&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszem&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=matheuszem&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszem&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
   <!-- Linguagens -->
